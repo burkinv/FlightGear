@@ -1,0 +1,22 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{9344BDBB-3E7F-41FC-A0DD-8665D75EE146}") = "flightgear", "flightgear\flightgear.mdproj", "{A76A6A79-00F1-4361-BF4D-7B40D046804C}"
+EndProject
+Project("{9344BDBB-3E7F-41FC-A0DD-8665D75EE146}") = "simgear", "simgear\simgear.mdproj", "{C34A8C79-1C9D-4AFA-A74D-BABC5198CDF6}"
+EndProject
+Project("{9344BDBB-3E7F-41FC-A0DD-8665D75EE146}") = "OpenSceneGraph", "OpenSceneGraph\OpenSceneGraph.mdproj", "{7821CCD4-4B68-4761-8687-F38195EE3604}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Any CPU = Default|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A76A6A79-00F1-4361-BF4D-7B40D046804C}.Default|Any CPU.ActiveCfg = Default|Any CPU
+		{A76A6A79-00F1-4361-BF4D-7B40D046804C}.Default|Any CPU.Build.0 = Default|Any CPU
+		{C34A8C79-1C9D-4AFA-A74D-BABC5198CDF6}.Default|Any CPU.ActiveCfg = Default|Any CPU
+		{C34A8C79-1C9D-4AFA-A74D-BABC5198CDF6}.Default|Any CPU.Build.0 = Default|Any CPU
+		{7821CCD4-4B68-4761-8687-F38195EE3604}.Default|Any CPU.ActiveCfg = Default|Any CPU
+		{7821CCD4-4B68-4761-8687-F38195EE3604}.Default|Any CPU.Build.0 = Default|Any CPU
+	EndGlobalSection
+EndGlobal
