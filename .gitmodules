@@ -1,0 +1,9 @@
+[submodule "OpenSceneGraph"]
+	path = OpenSceneGraph
+	url = https://github.com/openscenegraph/OpenSceneGraph.git
+[submodule "simgear"]
+	path = simgear
+	url = https://github.com/FlightGear/simgear.git
+[submodule "flightgear"]
+	path = flightgear
+	url = git://git.code.sf.net/p/flightgear/flightgear
