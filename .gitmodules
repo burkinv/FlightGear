@@ -7,3 +7,6 @@
 [submodule "flightgear"]
 	path = flightgear
 	url = git://git.code.sf.net/p/flightgear/flightgear
+[submodule "fgdata"]
+	path = fgdata
+	url = git://git.code.sf.net/p/flightgear/fgdata/
